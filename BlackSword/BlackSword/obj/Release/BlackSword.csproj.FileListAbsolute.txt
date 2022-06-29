@@ -1,0 +1,11 @@
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\bin\Release\BlackSword.exe.config
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\bin\Release\BlackSword.exe
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\bin\Release\BlackSword.pdb
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\obj\Release\BlackSword.csproj.AssemblyReference.cache
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\obj\Release\BlackSword.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\obj\Release\BlackSword.MainForm.resources
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\obj\Release\BlackSword.Properties.Resources.resources
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\obj\Release\BlackSword.csproj.GenerateResource.cache
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\obj\Release\BlackSword.csproj.CoreCompileInputs.cache
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\obj\Release\BlackSword.exe
+C:\Users\Alexsheng\Downloads\BlackSword\BlackSword\obj\Release\BlackSword.pdb
